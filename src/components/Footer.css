@@ -1,0 +1,41 @@
+
+
+footer{
+    max-width: 100%;
+    margin-top: 100px;
+  }
+  
+  .footer__end{
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+  }
+  
+  .footer__span{
+    color: gray;
+  }
+  
+  .social{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .footer__hug{
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 0;
+  }
+  
+  .footer-col p{
+    margin-top: 10px;
+    color: grey
+  }
+  
+ 
