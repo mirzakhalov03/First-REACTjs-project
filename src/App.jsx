@@ -5,7 +5,7 @@ import Featured from './components/Featured'
 import FeaturedCol from './components/FeaturedCol'
 
 import {React} from 'react'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 
 
 
